@@ -1,0 +1,42 @@
+
+.header {
+    display: flex;
+    width: 95%;
+    padding: 2%;
+
+}
+
+.header--content {
+    background-color: yellow;
+    width: 50%;
+    text-align: left;
+    color: #081158;
+    padding: 10px;
+}
+
+.header--title {
+    font-size: 72px;
+    font-weight: 500;
+    
+}
+
+.header--duration {
+}
+
+.header--body {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+.header--photo {
+    width: 50%;
+    background-image: url('./Women-Work-Out.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.cart--btn {
+    display: flex;
+    
+}
