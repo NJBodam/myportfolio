@@ -1,3 +1,8 @@
+# My portfolio
+
+A portfolio website built with the React library. It showcases my skills, projects, experience and education.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
